@@ -1,10 +1,6 @@
 # MaskRCNN_Video
 
-En este proyecto abordaremos la segmentación semantica usando MaskRCNN en imagenes y video. Los repositorios base de este proyecto son los siguiente. El primero de ellos es la implementación para Tensorflow 1, y el segundo repositorio tiene la actualización para Tensorflow 2.
-Se realizaron modificaciones para correr la detección usando la cámara web.
-
-    https://github.com/matterport/Mask_RCNN
-    https://github.com/akTwelve/Mask_RCNN
+En este proyecto detecto mandarinas para su conteo.
 
 ## Preparación del entorno
 
